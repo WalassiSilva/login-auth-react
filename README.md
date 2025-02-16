@@ -1,4 +1,4 @@
-# 📊 Auth Login React
+# 🔐 Auth Login React
 
 ## 🔍 Sobre o Projeto
 
@@ -8,11 +8,11 @@ O **Auth Login React** é um projeto de código aberto projetado fazer login, te
 
 **Register page:** Cadastra um usuário com o fonecimento de nome, email, senha e confirmação de senha.
 
-**Login page:** Confere email e senha par dar acesso as rotas privadas do projeto. <br/>
+**Login page:** Confere email e senha para liberar acesso às rotas privadas do projeto. <br/>
 
-**Dashboard page:** Dá boas vindas ao usuário autenticado.
+**Dashboard page:** Recebo usuário autenticado com boas vindas.
 
-**Validação:** Validação de formulário com Zod + react-hook-form .
+**Validação:** Validação de formulário com Zod + react-hook-form.
 
 **Armazenamento de usuários:** Usuários registrados e logados são salvos no local storage.
 
@@ -29,8 +29,7 @@ O **Auth Login React** é um projeto de código aberto projetado fazer login, te
     &nbsp;
      <img align='center' height='50' width='70' title='TypeScript' alt='Vite' src='https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg' /> &nbsp;
     &nbsp;
-    
-   <img align='center' height='50' width='70' title='TypeScript' alt='typescript' src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' /> &nbsp;
+     <img align='center' height='50' width='70' title='TypeScript' alt='typescript' src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' /> &nbsp;
     &nbsp;
    
    
