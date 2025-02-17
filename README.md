@@ -55,6 +55,7 @@ Com a adição do Docker, você agora pode utilizar dos scripts fornecidos em `p
 Para isso, segue o script:
 
 > `docker compose up -d --build`: Iniciar o projeto com docker <br/>
+Em seguida abra o projeto no navegador digitando `localhost`
 
 ## Possíveis Melhorias
 - Transformar a senha em um hash code.
