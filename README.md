@@ -23,26 +23,18 @@ O **Auth Login React** é um projeto de código aberto projetado fazer login, te
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 <div align='center'>
-  <img align='center' height='50' width='70' title='TypeScript' alt='React' src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' /> &nbsp;
+  <img align='center' height='50' width='70' title='React' alt='React' src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' /> &nbsp;
     &nbsp;
    <img align='center' height='50' width='68' title='Tailwindcss' alt='tailwindcss' src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg' /> &nbsp;
     &nbsp;
-     <img align='center' height='50' width='70' title='TypeScript' alt='Vite' src='https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg' /> &nbsp;
+     <img align='center' height='50' width='70' title='Vite' alt='Vite' src='https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg' /> &nbsp;
     &nbsp;
      <img align='center' height='50' width='70' title='TypeScript' alt='typescript' src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' /> &nbsp;
     &nbsp;
-   
-   
+     <img align='center' height='50' width='70' title='Docker' alt='docker' src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg' /> &nbsp;
+    &nbsp;
   
 </div>
-
-## 🐳 Docker
-
-Com a adição do Docker, você agora pode utilizar dos scripts fornecidos em `package.json` para poder construir a imagem docker e rodar o container da aplicação.
-
-Para isso, segue a lista de funções de cada script:
-
-> `docker compose up -d --build`: Iniciar o projeto com docker <br>
 
 ## Configuração do projeto
 
@@ -55,6 +47,14 @@ npm install
 ```sh
 npm run dev
 ```
+
+## 🐳 Docker
+
+Com a adição do Docker, você agora pode utilizar dos scripts fornecidos em `package.json` para poder construir a imagem docker e rodar o container da aplicação.
+
+Para isso, segue a lista de funções de cada script:
+
+> `docker compose up -d --build`: Iniciar o projeto com docker <br/>
 
 ## Possíveis Melhorias
 - Transformar a senha em um hash code.
