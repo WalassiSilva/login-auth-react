@@ -52,7 +52,7 @@ npm run dev
 
 Com a adição do Docker, você agora pode utilizar dos scripts fornecidos em `package.json` para poder construir a imagem docker e rodar o container da aplicação.
 
-Para isso, segue a lista de funções de cada script:
+Para isso, segue o script:
 
 > `docker compose up -d --build`: Iniciar o projeto com docker <br/>
 
